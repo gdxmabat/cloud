@@ -1,1 +1,1 @@
-terraform plan
+c:\windows\system32\terraform.exe plan
