@@ -1,1 +1,1 @@
-terraform init
+c:\windows\system32\terraform.exe init
