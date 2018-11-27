@@ -1,0 +1,1 @@
+https://github.com/jmassardo/Azure-WinRM-Terraform
