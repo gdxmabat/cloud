@@ -5,22 +5,22 @@
 #================================================================================
 variable "subscription_id" {
   description = "Identificador de subscripcion azure"
-  default     = "4c950822-b692-4f3a-a53f-40cc40aced2e"
+  default     = "param_subscription_id"
 	
 }
 variable "client_id" {
   description = "Identificador de cliente"
-  default     = "8f6f1cfa-985d-4a0b-b247-93cc25d46ebf"
+  default     = "param_client_id"
 
 }
 variable "client_secret" {
   description = "Contraseña cliente"
-  default     = "52138f2c-ce4d-49fa-9108-f264cb16d405"
+  default     = "param_client_secret"
 
 }
 variable "tenant_id" {
   description = "Tenant ID"
-  default     = "79add968-ae6e-433a-8aab-09abaa0fe1f6"
+  default     = "param_tenant_id"
 }
 
 
