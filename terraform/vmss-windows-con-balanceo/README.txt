@@ -1,1 +1,0 @@
-https://github.com/terraform-providers/terraform-provider-azurerm/tree/master/examples/2-vms-loadbalancer-lbrules
