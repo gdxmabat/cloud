@@ -93,5 +93,5 @@ variable "image_version" {
 
 variable "instances_number" {
   description = "Numero de instancias que se generan"
-  default     = "2"
+  default     = "1"
 }
